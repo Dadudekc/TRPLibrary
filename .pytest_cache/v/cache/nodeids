@@ -1,0 +1,11 @@
+[
+  "test_model_trainer.py::test_create_lag_features",
+  "test_model_trainer.py::test_data_preprocessing",
+  "test_model_trainer.py::test_full_integration",
+  "test_model_trainer.py::test_initialization",
+  "test_model_trainer.py::test_model_evaluation",
+  "test_model_trainer.py::test_save_and_load_model",
+  "test_model_trainer.py::test_train_linear_regression",
+  "test_model_trainer.py::test_train_neural_network",
+  "test_model_trainer.py::test_visualize_training_results"
+]
